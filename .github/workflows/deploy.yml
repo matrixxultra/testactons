@@ -8,7 +8,7 @@ jobs:
       - name : installer Node
         uses : actions/setup-node@v3
       - name : installer deps
-        run : npm i
+        run : npm install
       - name: Dire bonjour avec mon action
         uses: matrixxultra/testactons@main
         with:
