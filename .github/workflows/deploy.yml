@@ -6,7 +6,7 @@ jobs:
       steps:
       - uses: actions/checkout@v4
       - name: Dire bonjour avec mon action
-        uses: matrixxultra/actionpersonalized@main
+        uses: matrixxultra/testactons@main
         with:
           nom: "idriss nadi"
           langue: "es"
