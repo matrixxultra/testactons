@@ -8,5 +8,5 @@ jobs:
       - name: Dire bonjour avec mon action
         uses: matrixxultra/testactons@main
         with:
-          nom: "idriss nadi"
+          nom: "idriss"
           langue: "es"
