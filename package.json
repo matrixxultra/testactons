@@ -1,0 +1,24 @@
+{
+  "name": "testactons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrixxultra/testactons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/matrixxultra/testactons/issues"
+  },
+  "homepage": "https://github.com/matrixxultra/testactons#readme",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^1.11.1"
+  }
+}
