@@ -8,5 +8,5 @@ jobs:
       - name: Dire bonjour avec mon action
         uses: matrixxultra/actionpersonalized@main
         with:
-            nom: "idriss nadi"
-            langue: "es"
+          nom: "idriss nadi"
+          langue: "es"
