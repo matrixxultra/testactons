@@ -6,7 +6,7 @@ jobs:
       steps:
       - uses: actions/checkout@v4
       - name : installer Node
-      - uses : actions/setup-node@v3
+        uses : actions/setup-node@v3
       - name : installer deps
         run : npm i
       - name: Dire bonjour avec mon action
